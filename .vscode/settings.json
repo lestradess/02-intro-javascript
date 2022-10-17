@@ -1,0 +1,6 @@
+{
+  "material-icon-theme.activeIconPack": "react",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
